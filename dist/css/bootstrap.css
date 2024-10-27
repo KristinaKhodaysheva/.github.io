@@ -5,7 +5,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
 .container-cst{
-  background: url(/img/фон.png) 50%/cover no-repeat;
+  background: url(img/фон.png) 50%/cover no-repeat;
   height: 600px; 
   border-radius: 30px;
   padding-top: 381px;
@@ -6888,7 +6888,7 @@ textarea.form-control-lg {
 }
 
 .text-bg-dark {
-  background: url(/img/how\ made.png) 50%/cover no-repeat;
+  background: url(img/how\ made.png) 50%/cover no-repeat;
 }
 
 .link-primary {
@@ -12296,7 +12296,7 @@ transform: translateX(0);
 }
 
 .container-sub{
-  background: url(/img/Subcribe.svg) 50%/cover no-repeat;
+  background: url(img/Subcribe.svg) 50%/cover no-repeat;
   height: 370px;
 }
 .text-sub{
